@@ -10,8 +10,8 @@ git clone git@github.com:schillermann/vscode-config.git ~/.config/Code/User
   - [Explorer](#explorer) 
 - [Editor](#editor)
   - [Navigate](#navigate)
-  - [Outline](outline)
-  - [Edit](edit)
+  - [Outline](#outline)
+  - [Edit](#edit)
 
 ### Sidebar
 
